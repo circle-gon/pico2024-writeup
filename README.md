@@ -1,3 +1,3 @@
-# pico2024-writeup
+# picoCTF 2024 writeups
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/circle-gon/pico2024-writeup)
+Hello! These are my writeups for the [picoCTF 2024](https://play.picoctf.org/practice?originalEvent=73&page=1) competition, and can be found in the `writeups` folder. I hope you enjoy them!
