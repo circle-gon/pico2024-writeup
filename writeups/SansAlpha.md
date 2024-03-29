@@ -22,6 +22,7 @@ After that, I did a search to see if there were any special characters that coul
 ![the * symbol](images/15.png)
 
 Let’s see if they are disabled on the instance:
+
 ![trying the * and ? symbols](images/16.png)
 
 They’re not! That means that we could use them to generate characters for filenames! Since most command line utilities are in the `/bin` folder, we could use wildcards to get them. Since we already know that forward slashes (`/`) are not disabled, we can go across directories too. Let’s try to get the `cat` command so we can print out stuff:
