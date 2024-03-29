@@ -44,7 +44,7 @@ Now the ifind command can be used.
 
 ![ifind to get inode number](images/8.png)
 
-The inode number is 8! When I tried to read the file directly with icat, it gave a bunch of garbage back, but the `innocuous-file.txt` mentions can still be seen. Let’s grep the file (and don’t forget to use `-a`!):
+The inode number is 8! When I tried to read the file directly with `icat`, it gave a bunch of garbage back, but the `innocuous-file.txt` mentions can still be seen. Let’s grep the file (and don’t forget to use `-a`!):
 
 ![file content command](images/12.png)
 ![file content part 1](images/9.png)

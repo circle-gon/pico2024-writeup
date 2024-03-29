@@ -53,4 +53,4 @@ Now we can use base64 on the file to get the flag!
 
 ![get the flag](images/21.png)
 
-Using a base64 decoder, it gave me `return 0 picoCTF{7h15_mu171v3r53_15_m4dn355_8b3d83ad}`. While the return 0 is kind of strange, we don’t need to worry about it. The flag is `picoCTF{7h15_mu171v3r53_15_m4dn355_8b3d83ad}`.
+Using a base64 decoder, it gave me `return 0 picoCTF{7h15_mu171v3r53_15_m4dn355_8b3d83ad}`. While the `return 0` is kind of strange, we don’t need to worry about it. The flag is `picoCTF{7h15_mu171v3r53_15_m4dn355_8b3d83ad}`.
